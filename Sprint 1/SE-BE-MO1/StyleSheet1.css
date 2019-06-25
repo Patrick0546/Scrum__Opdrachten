@@ -1,0 +1,21 @@
+﻿body{
+}
+#rood{
+    width: 500px;
+    height: 150px;
+    background-color: red;
+}
+#wit{
+    width: 500px;
+    height: 150px;
+    background-color: white;
+}
+#blauw{
+    width: 500px;
+    height: 150px;
+    background-color: blue
+        
+}
+hr{
+    opacity: 0;
+}

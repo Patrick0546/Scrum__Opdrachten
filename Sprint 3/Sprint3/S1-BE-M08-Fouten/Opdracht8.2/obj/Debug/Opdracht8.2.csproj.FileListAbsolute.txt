@@ -1,0 +1,7 @@
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 3\Sprint3\S1-BE-M08-Fouten\Opdracht8.2\bin\Debug\Opdracht8.2.exe.config
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 3\Sprint3\S1-BE-M08-Fouten\Opdracht8.2\bin\Debug\Opdracht8.2.exe
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 3\Sprint3\S1-BE-M08-Fouten\Opdracht8.2\bin\Debug\Opdracht8.2.pdb
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 3\Sprint3\S1-BE-M08-Fouten\Opdracht8.2\obj\Debug\Opdracht8.2.csprojAssemblyReference.cache
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 3\Sprint3\S1-BE-M08-Fouten\Opdracht8.2\obj\Debug\Opdracht8.2.csproj.CoreCompileInputs.cache
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 3\Sprint3\S1-BE-M08-Fouten\Opdracht8.2\obj\Debug\Opdracht8.2.exe
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 3\Sprint3\S1-BE-M08-Fouten\Opdracht8.2\obj\Debug\Opdracht8.2.pdb

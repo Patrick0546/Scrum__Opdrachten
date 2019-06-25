@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lab08</title>
+</head>
+<body>
+<script>
+    var today = new Date();
+    document.write("Vandaag is: "+ today);
+    var datum = prompt ("geef uw fractuurdatum(JJJJ-MM-DD)");
+    var fractuur = new Date(datum);
+    document.write("<br>fractuurdatum:"+ fractuur);
+    var tD = new Date(fractuur);
+    tD.setDate(tD.getDate() + 30);
+    var datestr = tD.getDate() + "/" + (tD.getMonth()+ 1) + "/" + tD.getFullYear();
+    document.write("<Br> betaaldatum: " + datestr);
+    if (today > tD){
+        tD.setDate(tD.getDate() + 30);
+    }
+    var iets =  Math.round((today - tD) / (1000 * 60 * 60 * 24));
+    iets = iets - iets - iets + 1 ;
+    document.write("<Br> u hebt nog  " + iets+ " dagen te betalen");
+</script>
+</body>
+</html>

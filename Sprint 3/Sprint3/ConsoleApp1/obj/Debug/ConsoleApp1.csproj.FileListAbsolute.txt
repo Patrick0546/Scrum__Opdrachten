@@ -1,0 +1,7 @@
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 3\Sprint3\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 3\Sprint3\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 3\Sprint3\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 3\Sprint3\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 3\Sprint3\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 3\Sprint3\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 3\Sprint3\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

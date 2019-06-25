@@ -1,0 +1,11 @@
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M03-Methoden\Opdracht_3.1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M03-Methoden\Opdracht_3.1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M03-Methoden\Opdracht_3.1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M03-Methoden\Opdracht_3.1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M03-Methoden\Opdracht_3.1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M03-Methoden\Opdracht_3.1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M03-Methoden\Opdracht_3.1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M03-Methoden\Opdracht_3.1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M03-Methoden\Opdracht_3.1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M03-Methoden\Opdracht_3.1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M03-Methoden\Opdracht_3.1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb

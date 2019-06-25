@@ -1,0 +1,7 @@
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M03-Methoden\Opdracht_3.1\ConsoleApp2\Opdracht3.4\bin\Debug\Opdracht3.4.exe.config
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M03-Methoden\Opdracht_3.1\ConsoleApp2\Opdracht3.4\bin\Debug\Opdracht3.4.exe
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M03-Methoden\Opdracht_3.1\ConsoleApp2\Opdracht3.4\bin\Debug\Opdracht3.4.pdb
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M03-Methoden\Opdracht_3.1\ConsoleApp2\Opdracht3.4\obj\Debug\Opdracht3.4.csproj.CoreCompileInputs.cache
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M03-Methoden\Opdracht_3.1\ConsoleApp2\Opdracht3.4\obj\Debug\Opdracht3.4.exe
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M03-Methoden\Opdracht_3.1\ConsoleApp2\Opdracht3.4\obj\Debug\Opdracht3.4.pdb
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M03-Methoden\Opdracht_3.1\ConsoleApp2\Opdracht3.4\obj\Debug\Opdracht3.4.csprojAssemblyReference.cache

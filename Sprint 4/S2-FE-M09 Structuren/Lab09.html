@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lab09</title>
+</head>
+<body>
+<script>
+    var rol = prompt("Wat is uw rol?");
+    var inlogcode = prompt("Wat is uw inlogcode?");
+    switch(rol || inlogcode) {
+        case rol = "admin": case rol = "student": case inlogcode = "admin": case inlogcode = "student":
+            document.write("Welkom!");
+            break;
+        default:
+            document.write("Code ongeldig!");
+    }
+</script>
+</body>
+</html>

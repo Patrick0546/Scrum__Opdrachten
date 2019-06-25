@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>String-Methodes</title>
+</head>
+<body>
+<script>
+    var titel = 'javascript';
+    var string = "dit is een lange tekst met daarin het woord javascript";
+    document.write('<br>Positie van het woord javascript is : ' + string.indexOf('s'));
+    document.write('<br>Index van letter s is: ' + titel.indexOf('javascript'));
+    if (navigator.userAgent.indexOf('MSIE') != -1) {
+        document.write('<br>Browser is Internet Explorer');
+    }
+    else if(navigator.userAgent.indexOf('Firefox') != -1) {
+        document.write('<br>Browser is firefox');
+    }
+    else if(navigator.userAgent.indexOf('Chrome') != -1) {
+        document.write('<br>Browser is Google Chrome');
+    }
+    var Spiegeling = ' ';
+    for (x=0; x < titel.length; x++)
+    {
+        teken = titel.charAt(x);
+        Spiegeling = teken + Spiegeling;
+    }
+    document.write('<br>Javascript gespiegeld '+Spiegeling);
+</script>
+</body>
+</html>

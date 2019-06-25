@@ -1,0 +1,7 @@
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 3\Sprint3\S1-BE-M07-Arrays\Opdracht7.14\bin\Debug\Opdracht7.14.exe.config
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 3\Sprint3\S1-BE-M07-Arrays\Opdracht7.14\bin\Debug\Opdracht7.14.exe
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 3\Sprint3\S1-BE-M07-Arrays\Opdracht7.14\bin\Debug\Opdracht7.14.pdb
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 3\Sprint3\S1-BE-M07-Arrays\Opdracht7.14\obj\Debug\Opdracht7.14.csprojAssemblyReference.cache
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 3\Sprint3\S1-BE-M07-Arrays\Opdracht7.14\obj\Debug\Opdracht7.14.csproj.CoreCompileInputs.cache
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 3\Sprint3\S1-BE-M07-Arrays\Opdracht7.14\obj\Debug\Opdracht7.14.exe
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 3\Sprint3\S1-BE-M07-Arrays\Opdracht7.14\obj\Debug\Opdracht7.14.pdb

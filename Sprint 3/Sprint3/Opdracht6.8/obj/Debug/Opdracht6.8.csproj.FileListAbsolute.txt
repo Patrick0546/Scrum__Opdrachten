@@ -1,0 +1,7 @@
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 3\Sprint3\Opdracht6.8\bin\Debug\Opdracht6.8.exe.config
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 3\Sprint3\Opdracht6.8\bin\Debug\Opdracht6.8.exe
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 3\Sprint3\Opdracht6.8\bin\Debug\Opdracht6.8.pdb
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 3\Sprint3\Opdracht6.8\obj\Debug\Opdracht6.8.csprojAssemblyReference.cache
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 3\Sprint3\Opdracht6.8\obj\Debug\Opdracht6.8.csproj.CoreCompileInputs.cache
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 3\Sprint3\Opdracht6.8\obj\Debug\Opdracht6.8.exe
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 3\Sprint3\Opdracht6.8\obj\Debug\Opdracht6.8.pdb

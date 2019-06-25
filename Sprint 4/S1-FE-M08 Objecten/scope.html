@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>scope</title>
+</head>
+<body>
+<script>
+    //Global scope
+    scope = 'globaal';
+    bevolking = 1000;
+    document.write('<br>scope:' +scope + '<br>bevolking: '+ bevolking);
+    function functionscope(){
+        // lokale scope
+        var scope = 'lokaal';
+        var lokalebevolking = 10;
+        bevolking += lokalebevolking;
+        forensen = 2;
+        document.write('<br>scope: ' + scope + '<br>bevolking: ' + lokalebevolking);
+    }
+    functionscope();
+    document.write('<br>scope: ' + scope + '<br>bevolking:'+bevolking);
+    document.write('<br>Als eerste benoemd in functie forensen: ' +forensen);
+    function bestalauto(merk,klasse,kleur){
+        if(typeof arguments[0] === 'undefined'){
+            // gebruik default waarde
+            merk = 'Audi';
+        }
+        document.write('bestelde: een ' + merk + ' ' + klasse + ' in ' + kleur);
+    }
+</script>
+</body>
+</html>

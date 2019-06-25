@@ -1,0 +1,11 @@
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 1\SE-BE-MO2\Opdracht 2.4\Opdracht2.3\Opdracht2.3\bin\Debug\netcoreapp2.1\Opdracht2.3.deps.json
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 1\SE-BE-MO2\Opdracht 2.4\Opdracht2.3\Opdracht2.3\bin\Debug\netcoreapp2.1\Opdracht2.3.runtimeconfig.json
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 1\SE-BE-MO2\Opdracht 2.4\Opdracht2.3\Opdracht2.3\bin\Debug\netcoreapp2.1\Opdracht2.3.runtimeconfig.dev.json
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 1\SE-BE-MO2\Opdracht 2.4\Opdracht2.3\Opdracht2.3\bin\Debug\netcoreapp2.1\Opdracht2.3.dll
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 1\SE-BE-MO2\Opdracht 2.4\Opdracht2.3\Opdracht2.3\bin\Debug\netcoreapp2.1\Opdracht2.3.pdb
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 1\SE-BE-MO2\Opdracht 2.4\Opdracht2.3\Opdracht2.3\obj\Debug\netcoreapp2.1\Opdracht2.3.csprojAssemblyReference.cache
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 1\SE-BE-MO2\Opdracht 2.4\Opdracht2.3\Opdracht2.3\obj\Debug\netcoreapp2.1\Opdracht2.3.csproj.CoreCompileInputs.cache
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 1\SE-BE-MO2\Opdracht 2.4\Opdracht2.3\Opdracht2.3\obj\Debug\netcoreapp2.1\Opdracht2.3.AssemblyInfoInputs.cache
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 1\SE-BE-MO2\Opdracht 2.4\Opdracht2.3\Opdracht2.3\obj\Debug\netcoreapp2.1\Opdracht2.3.AssemblyInfo.cs
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 1\SE-BE-MO2\Opdracht 2.4\Opdracht2.3\Opdracht2.3\obj\Debug\netcoreapp2.1\Opdracht2.3.dll
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 1\SE-BE-MO2\Opdracht 2.4\Opdracht2.3\Opdracht2.3\obj\Debug\netcoreapp2.1\Opdracht2.3.pdb

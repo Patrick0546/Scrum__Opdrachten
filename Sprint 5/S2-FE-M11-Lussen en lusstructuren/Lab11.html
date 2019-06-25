@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lab11</title>
+</head>
+<body>
+<script>
+    var telefoonnummer = prompt("Wat is uw telefoonnummer?");
+    var getal = new Array();
+    getal[0] = 'nul';
+    getal[1] = 'een';
+    getal[2] = 'twee';
+    getal[3] = 'drie';
+    getal[4] = 'vier';
+    getal[5] = 'vijf';
+    getal[6] = 'zes';
+    getal[7] = 'zeven';
+    getal[8] = 'acht';
+    getal[9] = 'negen';
+    lengte = telefoonnummer.length;
+    for(x=0; x<lengte; x++) {
+        teken = telefoonnummer.charAt(x);
+        if(teken == '0'){
+            document.write(getal[0]+ " ");
+        }
+        if(teken == '1'){
+            document.write(getal[1]+ " ");
+        }
+        if(teken == '2'){
+            document.write(getal[2]+ " ");
+        }
+        if(teken == '3'){
+            document.write(getal[3]+ " ");
+        }
+        if(teken == '4'){
+            document.write(getal[4]+ " ");
+        }
+        if(teken == '5'){
+            document.write(getal[5]+ " ");
+        }
+        if(teken == '6'){
+            document.write(getal[6]+ " ");
+        }
+        if(teken == '7'){
+            document.write(getal[7]+ " ");
+        }
+        if(teken == '8'){
+            document.write(getal[8]+ " ");
+        }
+        if(teken == '9') {
+            document.write(getal[9]+ " ");
+        }
+    }
+    document.write("<br>Je telefoon nummer is: " + telefoonnummer);
+</script>
+</body>
+</html>

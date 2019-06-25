@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Spreekwoord</title>
+</head>
+<body>
+<script type="text/javascript">
+    var dag=new Date()
+    var weekdag=new Array("Zondag","Maandag","Dinsdag","Woensdag","Donderdag",
+        "Vrijdag","Zaterdag")
+    var spreekwoord=new Array("Oost west, thuis best","Eigen haard is goud waard","Haastige spoed is zelden goed","Beter laat dan nooit","Wie het laatst lacht, lacht het best",
+        " De morgenstond heeft goud in de mond","Zoals het klokje thuis tikt, tikt het nergens")
+
+    document.write("Het is vandaag " + weekdag[dag.getDay()])
+    document.write("<br>De tip van de dag is :  " + spreekwoord[dag.getDay()])
+</script>
+</body>
+</html>

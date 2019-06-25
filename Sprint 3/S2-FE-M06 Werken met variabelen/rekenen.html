@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Rekenen</title>
+</head>
+<body>
+<script>
+    var vraag = prompt("Voer een getal in!");
+    var vraag1 = prompt("Voer een tweede getal in");
+    var inputvraag = prompt("Wat wilt u met de getallen doen? (plus // min // maal // delen)");
+    if (inputvraag == "plus")
+    {
+        var plus = Number(vraag) + Number(vraag1);
+        antwoord = document.write("Het antwoord is " + plus);
+    }
+    if (inputvraag == "min")
+    {
+        var min = Number(vraag) - Number(vraag1);
+        antwoord = document.write("Het antwoord is " + min);
+    }
+    if (inputvraag == "maal")
+    {
+        var maal = Number(vraag) * Number(vraag1);
+        antwoord = document.write("Het antwoord is " + maal);
+    }
+    if (inputvraag == "delen")
+    {
+        var delen = Number(vraag) / Number(vraag1);
+        antwoord = document.write("Het antwoord is " + delen);
+    }
+    else
+    {
+        document.write("Ongeldige invoer");
+    }
+</script>
+</body>
+</html>

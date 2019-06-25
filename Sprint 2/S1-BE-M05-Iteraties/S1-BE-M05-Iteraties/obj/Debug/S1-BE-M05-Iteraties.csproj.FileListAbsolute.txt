@@ -1,0 +1,7 @@
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M05-Iteraties\S1-BE-M05-Iteraties\bin\Debug\S1-BE-M05-Iteraties.exe.config
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M05-Iteraties\S1-BE-M05-Iteraties\bin\Debug\S1-BE-M05-Iteraties.exe
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M05-Iteraties\S1-BE-M05-Iteraties\bin\Debug\S1-BE-M05-Iteraties.pdb
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M05-Iteraties\S1-BE-M05-Iteraties\obj\Debug\S1-BE-M05-Iteraties.csprojAssemblyReference.cache
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M05-Iteraties\S1-BE-M05-Iteraties\obj\Debug\S1-BE-M05-Iteraties.csproj.CoreCompileInputs.cache
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M05-Iteraties\S1-BE-M05-Iteraties\obj\Debug\S1-BE-M05-Iteraties.exe
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 2\S1-BE-M05-Iteraties\S1-BE-M05-Iteraties\obj\Debug\S1-BE-M05-Iteraties.pdb

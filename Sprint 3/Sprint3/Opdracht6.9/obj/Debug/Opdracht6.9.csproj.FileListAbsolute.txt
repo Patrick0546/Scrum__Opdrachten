@@ -1,0 +1,2 @@
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 3\Sprint3\Opdracht6.9\obj\Debug\Opdracht6.9.csprojAssemblyReference.cache
+D:\OneDrive - ROC van Twente\Data - Roc van Hengelo\Scrum\Sprint 3\Sprint3\Opdracht6.9\obj\Debug\Opdracht6.9.csproj.CoreCompileInputs.cache

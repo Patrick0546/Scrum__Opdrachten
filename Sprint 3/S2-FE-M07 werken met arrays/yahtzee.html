@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Yahtzee</title>
+</head>
+<body>
+<input type="button" value="Dobbel nu" onclick="alert('Het totaal aantal ogen wat gegooid is met 5 dobbelstenen is: ' +totaleogen)">
+
+<script>
+    Eerste = Math.floor(Math.random() * 7);
+    Tweede = Math.floor(Math.random() * 7);
+    Derde = Math.floor(Math.random() * 7);
+    Vierde = Math.floor(Math.random() * 7);
+    Vijfde = Math.floor(Math.random() * 7);
+
+    var totaleogen = Eerste + Tweede + Derde + Vierde + Vijfde;
+</script>
+</body>
+</html>
